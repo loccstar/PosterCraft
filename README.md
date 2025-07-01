@@ -2,7 +2,7 @@
 <h1>🎨 PosterCraft:<br/>Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework</h1>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2506.10741-red)](https://arxiv.org/abs/2506.10741)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ephemeral182/PosterCraft)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/MeiGen-AI/PosterCraft)
 [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow)](https://huggingface.co/PosterCraft)
 [![Website](https://img.shields.io/badge/🌐-Website-green)](https://ephemeral182.github.io/PosterCraft/)
 [![Video](https://img.shields.io/badge/🎥-Live_Demo-purple)](https://www.youtube.com/watch?v=92wMU4D7qx0)
@@ -10,7 +10,7 @@
 
 <img src="images/logo/logo2.png" alt="PosterCraft Logo" width="1000"/>
 
-### [**🌐 Website**](https://ephemeral182.github.io/PosterCraft/) | [**🎯 Demo**](https://github.com/Ephemeral182/PosterCraft) | [**📄 Paper**](https://arxiv.org/abs/2506.10741) | [**🤗 Models**](https://huggingface.co/PosterCraft) | [**📚 Datasets**](https://huggingface.co/PosterCraft) | [**🎥 Video**](https://www.youtube.com/watch?v=92wMU4D7qx0) | [**🤗 HF Demo**](https://huggingface.co/spaces/Ephemeral182/PosterCraft)
+### [**🌐 Website**](https://ephemeral182.github.io/PosterCraft/) | [**🎯 Demo**](https://github.com/MeiGen-AI/PosterCraft) | [**📄 Paper**](https://arxiv.org/abs/2506.10741) | [**🤗 Models**](https://huggingface.co/PosterCraft) | [**📚 Datasets**](https://huggingface.co/PosterCraft) | [**🎥 Video**](https://www.youtube.com/watch?v=92wMU4D7qx0) | [**🤗 HF Demo**](https://huggingface.co/spaces/Ephemeral182/PosterCraft)
 
 </div>
 
